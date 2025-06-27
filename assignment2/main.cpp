@@ -14,7 +14,7 @@
 #include <string>
 #include <unordered_set>
 
-std::string kYourName = "STUDENT TODO"; // Don't forget to change this!
+std::string kYourName = "TuanPham"; // Don't forget to change this!
 
 /**
  * Takes in a file name and returns a set containing all of the applicant names as a set.
@@ -28,7 +28,14 @@ std::string kYourName = "STUDENT TODO"; // Don't forget to change this!
  * to also change the corresponding functions in `utils.h`.
  */
 std::set<std::string> get_applicants(std::string filename) {
-  // STUDENT TODO: Implement this function.
+  std::set<std::string> students;
+  std::ifstream ifs(filename);
+  std::string line;
+
+  while (ifs.is_open() && std::getline(ifs, line)) {
+    students.insert(line);
+  }
+  return students;
 }
 
 /**
@@ -40,7 +47,27 @@ std::set<std::string> get_applicants(std::string filename) {
  * @return          A queue containing pointers to each matching name.
  */
 std::queue<const std::string*> find_matches(std::string name, std::set<std::string>& students) {
-  // STUDENT TODO: Implement this function.
+  std::string studentname;
+  std::string::size_type posstd, posname;
+  std::queue<const std::string*> potentials;
+
+  posname = name.find(" ");
+
+  for(auto it = students.begin(); it != students.end(); ++it) {
+    studentname = *it;
+
+    posstd =studentname.find(" ");
+    if (posstd == std::string::npos) continue;
+
+    if (posname == std::string::npos) {
+      if (studentname[0] == name[0])
+        potentials.push(&(*it));
+    } else {
+      if (studentname[0] == name[0] && studentname[posstd+1] == name[posname+1])
+        potentials.push(&(*it));
+    }
+  }
+  return potentials;
 }
 
 /**
@@ -54,7 +81,8 @@ std::queue<const std::string*> find_matches(std::string name, std::set<std::stri
  *                Will return "NO MATCHES FOUND." if `matches` is empty.
  */
 std::string get_match(std::queue<const std::string*>& matches) {
-  // STUDENT TODO: Implement this function.
+  if (matches.size() == 0) return "NO MATCHES FOUND";
+  else return *matches.front();
 }
 
 /* #### Please don't remove this line! #### */
