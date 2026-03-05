@@ -1,6 +1,6 @@
 # Assignment 6: Explore Courses
 
-Due Friday, May 30th at 11:59PM
+Due Saturday, November 22nd at 11:59PM
 
 ## Overview
 
@@ -165,7 +165,9 @@ It can help to **think about what the type of `output` is and work backwards fro
 
 ## 🚀 Submission Instructions
 
-Before you submit the assignment, please fill out this [short feedback form](https://forms.gle/cZGTbEQ8bp8awoA3A). **Completion of the form is required to receive credit for the assignment.** After filling out the form, please upload the files to Paperless under the correct assignment heading.
+If you pass all tests, you are ready to submit! To submit the assignment:
+1. Please complete the feedback form [at this link](https://forms.gle/aGuFqLyhB18mNoPKA). 
+2. Submit your assignment on [Paperless](https://paperless.stanford.edu)!
 
 Your deliverable should be:
 

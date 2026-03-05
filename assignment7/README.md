@@ -4,7 +4,7 @@
 
 # Assignment 7: Unique Pointer
 
-Due Friday, June 6th at 11:59PM
+Due Saturday, December 6th at 11:59PM
 
 ## Overview
 
@@ -183,7 +183,9 @@ Once you've implemented `create_list`, we can now create a list and print it out
 
 ## 🚀 Submission Instructions
 
-Before you submit the assignment, please fill out this [short feedback form](https://forms.gle/TXzLEgdKYnEPes22A). **Completion of the form is required to receive credit for the assignment.** After filling out the form, please upload the files to Paperless under the correct assignment heading.
+If you pass all tests, you are ready to submit! To submit the assignment:
+1. Please complete the feedback form [at this link](https://forms.gle/uHr3J8Vm3gECkZpm9). 
+2. Submit your assignment on [Paperless](https://paperless.stanford.edu)!
 
 Your deliverable should be:
 

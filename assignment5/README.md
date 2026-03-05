@@ -4,7 +4,7 @@
 
 # Assignment 5: Treebook
 
-Due Friday, May 23rd at 11:59PM
+Due Saturday, November 15th at 11:59PM
 
 ## Overview
 
@@ -132,7 +132,9 @@ The function signature for this operator should be `bool operator<(const User& r
 
 ## 🚀 Submission Instructions
 
-Before you submit the assignment, please fill out this [short feedback form](https://forms.gle/YFA8Z6GwBp976irm7). **Completion of the form is required to receive credit for the assignment.** After filling out the form, please upload the files to Paperless under the correct assignment heading.
+If you pass all tests, you are ready to submit! To submit the assignment:
+1. Please complete the feedback form [at this link](https://forms.gle/tfLJSKnuUbUx9Xdi6). 
+2. Submit your assignment on [Paperless](https://paperless.stanford.edu)!
 
 Your deliverable should be:
 

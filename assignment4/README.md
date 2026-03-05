@@ -5,7 +5,7 @@
 
 # Assignment 4: Ispell
 
-Due Friday, May 16th at 11:59PM
+Due Saturday, November 8th at 11:59PM
 
 ## Overview
 
@@ -379,7 +379,9 @@ To fully test your spellchecker, try re-compiling and running the autograder:
 ./main
 ```
 
-If you pass all tests, you are ready to submit! Before you submit the assignment, please fill out this [short feedback form](https://forms.gle/Yn2BzGvuK237WFMc7). **Completion of the form is required to receive credit for the assignment.** After filling out the form, please upload the files to Paperless under the correct assignment heading.
+If you pass all tests, you are ready to submit! To submit the assignment:
+1. Please complete the feedback form [at this link](https://forms.gle/AMq7kvVKprKmBafKA). 
+2. Submit your assignment on [Paperless](https://paperless.stanford.edu)!
 
 Your deliverable should be:
 

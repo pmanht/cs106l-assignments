@@ -1,6 +1,6 @@
 # Assignment 1: SimpleEnroll
 
-Due Friday, April 25th, at 11:59PM
+Due Friday, October 17th, at 11:59PM
 
 ## Overview
 
@@ -109,7 +109,11 @@ After compiling and running, if your autograder looks like this:
 
 ![An image showing a terminal window where the autograder has run with all tests passing](docs/autograder.png)
 
-then you have finished the assignment! Woot woot. To submit the assignment, please complete the feedback form [at this link](https://forms.gle/9CBz5HRYRADP3RW28). Once you submit the form, a link to the submission page will show up in the form submission confirmation.
+then you have finished the assignment! Woot woot. 
+
+To submit the assignment:
+1. Please complete the feedback form [at this link](https://forms.gle/UeD6zjmUpFbhGgw98). 
+2. Submit your assignment on [Paperless](https://paperless.stanford.edu)!
 
 Your deliverable should be:
 

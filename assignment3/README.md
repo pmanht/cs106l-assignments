@@ -4,7 +4,7 @@
 
 # Assignment 3: Make a Class
 
-Due Friday, May 9th at 11:59PM
+Due Saturday November 1st at 11:59PM
 
 ## Overview
 
@@ -109,7 +109,9 @@ Please answer the following questions inside `short_answer.txt`. We expect about
 
 ## 🚀 Submission Instructions
 
-Before you submit the assignment, please fill out this [short feedback form](https://forms.gle/BMHGeNPjotMS9njK7). **Completion of the form is required to receive credit for the assignment.** After filling out the form, please upload the files to Paperless under the correct assignment heading.
+To submit the assignment:
+1. Please complete the feedback form [at this link](https://forms.gle/GmhzW9NycQ44hyF86). 
+2. Submit your assignment on [Paperless](https://paperless.stanford.edu)!
 
 Your deliverable should be:
 

@@ -4,7 +4,7 @@
 
 # Assignment 2: Marriage Pact
 
-Due Friday, May 2nd at 11:59PM
+Due Saturday, October 25th at 11:59PM
 
 ## Overview
 
@@ -114,7 +114,9 @@ Afterwards, answer the following question in `short_answer.txt`:
 
 ## 🚀 Submission Instructions
 
-Before you submit the assignment, please fill out this [short feedback form](https://forms.gle/jTQSpVjesp1F6MEp6). **Completion of the form is required to receive credit for the assignment.** After filling out the form, please upload the files to Paperless under the correct assignment heading.
+To submit the assignment:
+1. Please complete the feedback form [at this link](https://forms.gle/Zv27LwmtCPz88Kg46). 
+2. Submit your assignment on [Paperless](https://paperless.stanford.edu)!
 
 Your deliverable should be:
 
