@@ -105,6 +105,7 @@ public:
   }
 
   unique_ptr& operator=(unique_ptr&& other) {
+    if (this == &other) return *this;
     if(ptr) delete ptr;
     ptr = other.ptr;
     other.ptr = nullptr;
